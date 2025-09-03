@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayParserr.Core", "LayParser.Core\LayParserr.Core.csproj", "{D40D2C30-5E35-4081-8F79-7EE9AD1F0DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayParser.Desktop", "LayParser.Desktop\LayParser.Desktop.csproj", "{6AB02A32-C4BA-4854-9106-C872A1FD7F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40D2C30-5E35-4081-8F79-7EE9AD1F0DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40D2C30-5E35-4081-8F79-7EE9AD1F0DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40D2C30-5E35-4081-8F79-7EE9AD1F0DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40D2C30-5E35-4081-8F79-7EE9AD1F0DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB02A32-C4BA-4854-9106-C872A1FD7F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB02A32-C4BA-4854-9106-C872A1FD7F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB02A32-C4BA-4854-9106-C872A1FD7F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB02A32-C4BA-4854-9106-C872A1FD7F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94211D46-13FE-42A5-9C72-481E02C8EEC9}
+	EndGlobalSection
+EndGlobal

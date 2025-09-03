@@ -1,0 +1,97 @@
+# Visual Studio specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2019 directories
+.vs/
+
+# Rider specific files
+.idea/
+
+# User-specific files
+*.DotSettings.user
+
+# Mac specific files
+.DS_Store
+
+# Test results
+*.trx
+*.testsettings
+
+# Built-in coverage files
+*.coverage
+*.coveragexml
+
+# NCover results
+*.ncover
+
+# Visual Studio code coverage results
+*.codecoverage
+*.codecoveragexml
+
+# NCrunch
+_NCrunch_*.csproj
+.*_ncrunch*.csproj
+*.ncrunch*
+
+# Miniprofiler results
+*.db
+
+# StyleCop
+StyleCop.Cache
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode
+.JustCode
+
+# Paket dependencies
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# Paket bootstrapping
+.paket/
+
+# F# Interactive
+fsi.exe.*
+
+# F# Type Providers
+*/projects/Project/bin
+*/projects/Project/obj
+
+# FSharp.Configuration
+*.dll.config
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# VS Code
+.vscode/
+
+# Build Artefacts
+**/AppPackages/
+**/BundleArtifacts/
+**/Publish/
